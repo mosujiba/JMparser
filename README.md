@@ -1,2 +1,2 @@
 # JMparser
-The program is meant to be run on a JMDict XML file.
+The program is meant to be run on a JMDict XML file. It creates the XML word file used in korewanani.com. The JMDict file contains alot of useful data, but most of it is not needed for a simple Japanese vocabulary quiz. JMparser will filter the JMDict file to create a new trimmed-down XML file containing only the following data: English words and their Japanese translations in hiragana, katakana, and kanji.
